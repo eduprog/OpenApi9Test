@@ -7,12 +7,6 @@ using Sample.Transformers;
 
 var builder = WebApplication.CreateBuilder(args);
 
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> abed6eca3d75671b20295926b9dcf2a55f0d358b
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
